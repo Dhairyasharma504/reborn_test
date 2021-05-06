@@ -12,6 +12,6 @@ const styles = StyleSheet.create({
   container: {
     backgroundColor: 'red',
   },
-  image: {marginTop: 70},
+  image: {marginTop: 80},
 });
 export default App;
