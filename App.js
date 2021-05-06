@@ -3,7 +3,7 @@ import {Text, View, StyleSheet} from 'react-native';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.image}>htuujr</Text>
+      <Text style={styles.image}>hello</Text>
     </View>
   );
 };
