@@ -5,10 +5,10 @@ const Button_square =({square_button})=>{
 
 
     return(
-<View style={{ justifyContent: "center",}}>
+<View style={{alignSelf:'center'}}>
         <Button style={{ width: 186,
-            height: 28.5,
-            backgroundColor: "#61eaf2"
+            height: 48,
+            backgroundColor: "#61eaf2",justifyContent:'center'
             
             
             }}>
